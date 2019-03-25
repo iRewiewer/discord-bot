@@ -1,14 +1,13 @@
 ## Introduction
-This is my discord chatbot project written in Python3 as part of the year 1 tasks using [Discord.py](https://github.com/Rapptz/discord.py).
+This is my discord 'chatbot' project written in Python3 as part of a year 1 task using [Discord.py](https://github.com/Rapptz/discord.py).
+Might continue working on it in the future.
 
 ## Features
 * Roll a dice! Dices available: D4 / D6 / D8 / D10 / D100 / D12 / D20 / D∞
-* Have the bot tell a joke. It's funny, I promise!
-* Image manipulation! Crop out a friend's profile picture over a chicken body!
-* Music player. It's kind of mandatory in 2018, so here you go.
+* Have the bot tell a joke. It's funny, I promise.
+* Music player.
 * Looking for Group feature. Automagically create temporary parties & voice channels for your favorite games.
 * Ultra super secret dev commands! For admins with a good sense of humor.
-* Natural Language interpreter! Talk casually with the bot and have it say totally unrelated things.
 * Ever changing 'Playing..' status.
 
 ### Dice Example
